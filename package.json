@@ -1,0 +1,21 @@
+{
+  "name": "codewars-dsa",
+  "version": "1.0.0",
+  "description": "Daily Data Structures &amp; Algorithms solutions from Codewars in JavaScript, featuring Big-O complexity analysis and native Node.js unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sondao-tech/codewars-dsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sondao-tech/codewars-dsa/issues"
+  },
+  "homepage": "https://github.com/sondao-tech/codewars-dsa#readme"
+}
